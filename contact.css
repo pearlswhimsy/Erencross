@@ -432,12 +432,6 @@ grid-template-columns:1fr;
 
 @media(max-width:600px){
 
-.nav-links{
-
-display:none;
-
-}
-
 .contact-hero{
 
 margin-top:80px;
