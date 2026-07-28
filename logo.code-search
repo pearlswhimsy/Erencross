@@ -1,0 +1,108 @@
+# Query: logo
+# ContextLines: 1
+
+24 results - 8 files
+
+about.css:
+   44  
+   45: .logo{
+   46      background-image: url(images/goku.im.webp);
+
+   56  
+   57: .logo:hover{
+   58  
+
+  612  }
+  613: .footer-logo{
+  614  
+
+  902  
+  903: .logo:hover{
+  904  
+
+about.html:
+   13      <nav class="nav-bar">
+   14:         <a href="index.html" class="logo">ERENCROSS</a>
+   15          <ul class="nav-links">
+
+  281  
+  282:             <a href="index.html" class="footer-logo">
+  283                  ERENCROSS
+
+contact.css:
+   43  
+   44: .logo{
+   45      background-image: url(/Erencross/images/goku.im.webp);
+
+   55  
+   56: .logo:hover{
+   57  
+
+  479  }
+  480: .footer-logo{
+  481  
+
+  769  
+  770: .logo:hover{
+  771  
+
+contact.html:
+   19      <nav class="nav-bar">
+   20:         <a href="index.html" class="logo">ERENCROSS</a>
+   21          <ul class="nav-links">
+
+  169  
+  170:             <a href="index.html" class="footer-logo">
+  171                  ERENCROSS
+
+index.html:
+   17      <nav class="nav-bar">
+   18:         <a href="index.html" class="logo">ERENCROSS</a>
+   19          <ul class="nav-links">
+
+  204  
+  205:             <a href="index.html" class="footer-logo">
+  206                  ERENCROSS
+
+style.css:
+   44  
+   45: .logo{
+   46      background-image: url(images/goku.im.webp);
+
+   56  
+   57: .logo:hover{
+   58  
+
+  588  }
+  589: .footer-logo{
+  590  
+
+  812  
+  813: .logo:hover{
+  814  
+
+work.css:
+    43  
+    44: .logo{
+    45      background-image: url(/Erencross/images/goku.im.webp);
+
+    55  
+    56: .logo:hover{
+    57  
+
+   721  }
+   722: .footer-logo{
+   723  
+
+  1011  
+  1012: .logo:hover{
+  1013  
+
+work.html:
+   14      <nav class="nav-bar">
+   15:         <a href="index.html" class="logo">ERENCROSS</a>
+   16          <ul class="nav-links">
+
+  332  
+  333:             <a href="index.html" class="footer-logo">
+  334                  ERENCROSS
