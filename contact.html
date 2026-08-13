@@ -114,47 +114,63 @@ or looking for strategic partnerships, I'd love to hear what you're building.
 
 <h2 class="hidden">Send a Message</h2>
 
-<form class="hidden">
+<form
+    class="hidden"
+    action="https://formspree.io/f/xbdnwdlk"
+    method="POST">
 
-<div class="input-group">
+    <!-- Email Subject -->
+    <input
+        type="hidden"
+        name="_subject"
+        value="New Message from ERENCROSS Portfolio">
 
-<label>Name</label>
+    <div class="input-group">
 
-<input
-type="text"
-placeholder="Your name or project"
->
+        <label for="name">Name</label>
 
-</div>
+        <input
+            id="name"
+            type="text"
+            name="name"
+            placeholder="Your name or project"
+            required>
 
+    </div>
 
-<div class="input-group">
+    <div class="input-group">
 
-<label>Email</label>
+        <label for="email">Email</label>
 
-<input
-type="email"
-placeholder="your@email.com"
->
+        <input
+            id="email"
+            type="email"
+            name="email"
+            placeholder="your@email.com"
+            required>
 
-</div>
+    </div>
 
+    <div class="input-group">
 
-<div class="input-group">
+        <label for="message">Message</label>
 
-<label>Message</label>
+        <textarea
+            id="message"
+            name="message"
+            placeholder="Tell me about your project..."
+            rows="6"
+            required></textarea>
 
-<textarea
-placeholder="Tell me about your project..."
-></textarea>
+    </div>
 
-</div>
+    <button
+        type="submit"
+        class="send-btn">
 
-<button class="send-btn">
+        Send Message
 
-Send Message
-
-</button>
+    </button>
 
 </form>
 
